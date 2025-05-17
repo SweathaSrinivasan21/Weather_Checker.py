@@ -2,6 +2,7 @@ Weather Checker (Console-Based)
 
 A simple and user-friendly console-based weather application built in Python. It fetches real-time weather information and 3-day forecasts using the wttr.in API. 
 Designed for users who want quick weather updates without opening a browser or app.
+
 ✨ Features
 
     🌤 Check current weather by city name
@@ -25,7 +26,7 @@ Designed for users who want quick weather updates without opening a browser or a
     🌐 wttr.in (free weather API)
 
     📦 requests (HTTP client for API calls)
-    
+
 Follow the simple menu-driven interface:
 
     Current weather
@@ -56,3 +57,14 @@ Follow the simple menu-driven interface:
         • Temperature : 28 °C (feels like 30 °C)
         • Humidity    : 82%
         • Wind speed  : 18 km/h
+        
+📈 Future Improvements
+
+     Add voice input using speech_recognition 🎙️
+     
+     GUI version using Tkinter 🖥️
+     
+     Save weather logs to a file 📝
+     
+     Add colored output (with colorama) 🌈
+
